@@ -26,9 +26,9 @@ apply plugin: 'com.android.library'
 
 android {
 
-    namespace 'com.gooinpro.map'
+    namespace 'map.naver.plugin.net.lbstech.naver_map_plugin'
 
-    compileSdkVersion 28
+    compileSdkVersion 34
 
     defaultConfig {
         minSdkVersion 16
